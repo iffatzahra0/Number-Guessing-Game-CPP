@@ -1,7 +1,3 @@
-// IFFAT ZAHRA
-// CMS ID: 501970 , BEE16C
-// ASSIGNMENT QUESTION 1 (ASSIGNMENT MADE ON VISUAL STUDIO 2022)
-
 #include <iostream>
 #include <string>
 
