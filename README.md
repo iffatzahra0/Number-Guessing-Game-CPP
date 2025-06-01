@@ -37,6 +37,8 @@ The game offers three difficulty levels:
 
 ## How to Play
 
-**Compile the code** using any C++ compiler:
-   the game was made on Visual studio 2022
+1. **Compile the code** using any C++ compiler:
+(the game was made on Visual studio 2022)
+2. **Choose a level**
+3. **make a guess**
    
